@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#00fa9a"
-    tools:context=".MainActivity">
+    tools:context=".StartActivity">
 
     <Button
         android:id="@+id/device_button"
